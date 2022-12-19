@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.13",
+    "heartbeatAt": "2022-12-18T08:28:45.761444",
+    "startedAt": "2022-12-18T08:28:43.424702",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "xlm-robert/Untitled.ipynb",
+    "root": "C:\\Users\\prate",
+    "host": "prateek20",
+    "username": "prateek20",
+    "executable": "C:\\Users\\prate\\anaconda3\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400.0,
+        "min": 0.0,
+        "max": 2400.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400.0,
+            "min": 0.0,
+            "max": 2400.0
+        }
+    ],
+    "disk": {
+        "total": 476.0335121154785,
+        "used": 202.5620574951172
+    },
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1650",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.855857849121094
+    }
+}
